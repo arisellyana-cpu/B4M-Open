@@ -1,0 +1,21 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+slprj/
+codegen/
+*.mex*
+
+# MATLAB project and user state
+*.prj
+*.mlproj
+*.matlab.project.settings
+
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Temporary results
+*.log
+results/*.mat
