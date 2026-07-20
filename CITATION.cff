@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use B4M-Open, please cite the accompanying paper."
+title: "B4M-Open: A Baseline Bee for Mining Implementation"
+type: software
+version: 1.0.0
+date-released: 2026-07-20
+authors:
+  - family-names: Sellyana
+    given-names: Ari
+    email: arisellyana@itbriaupesisir.ac.id
+  - family-names: Mahmuddin
+    given-names: Massudi
+repository-code: "https://github.com/arisellyana-cpu/B4M-Open"
+license: MIT
+keywords:
+  - Bee for Mining
+  - Bees Algorithm
+  - rule-based classification
+  - swarm intelligence
+  - MATLAB
+preferred-citation:
+  type: conference-paper
+  title: "Bee for Mining (B4M) for Rule-Based Classification: Baseline Implementation and Experimental Evaluation"
+  authors:
+    - family-names: Sellyana
+      given-names: Ari
+    - family-names: Mahmuddin
+      given-names: Massudi
+  year: 2026
+  collection-title: "Proceedings of CAIS 2026"
